@@ -1,0 +1,1783 @@
+[
+    {
+        "category": "Sports",
+        "data": [
+            {
+                "Primary": "Federal Authorities Pursue Justice After Kansas City Chiefs Parade Shooting",
+                "Secondary": [
+                    "Kansas suffers big loss in Big 12 Tournament"
+                ],
+                "Title": [
+                    "Kansas City Chiefs Parade Shooting Investigation"
+                ]
+            },
+            {
+                "Primary": "SpaceX Starship Test Flight Success",
+                "Secondary": [
+                    "SpaceX Starship Test Flight Ends in Loss"
+                ],
+                "Title": [
+                    "Success and Failure in SpaceX Starship Test Flights"
+                ]
+            },
+            {
+                "Primary": "First CTE Diagnosis in Rugby Player",
+                "Secondary": [],
+                "Title": [
+                    "CTE Diagnosis in Rugby Player"
+                ]
+            },
+            {
+                "Primary": "Atletico Madrid and Borussia Dortmund Secure Champions League Quarter-Final Spots",
+                "Secondary": [
+                    "Dortmund secures Champions League quarter-final spot"
+                ],
+                "Title": [
+                    "Atletico Madrid and Borussia Dortmund Advance in Champions League"
+                ]
+            },
+            {
+                "Primary": "Anthony Joshua Dominates Francis Ngannou in Riyadh Fight",
+                "Secondary": [
+                    "Joshua Dominates Ngannou in Heavyweight Boxing Match"
+                ],
+                "Title": [
+                    "Anthony Joshua's Dominant Victory over Francis Ngannou"
+                ]
+            },
+            {
+                "Primary": "Klopp's Liverpool Evolution Against Manchester City",
+                "Secondary": [
+                    "Liverpool and Manchester City Share Points in Thrilling Draw"
+                ],
+                "Title": [
+                    "Klopp's Liverpool Evolution and Thrilling Draw against Manchester City"
+                ]
+            },
+            {
+                "Primary": "Max Verstappen Dominates Saudi Arabian Grand Prix",
+                "Secondary": [
+                    "Verstappen Wins Saudi Arabian Grand Prix"
+                ],
+                "Title": [
+                    "Max Verstappen's Dominance in Saudi Arabian Grand Prix"
+                ]
+            },
+            {
+                "Primary": "Wales Rugby Star George North Retires",
+                "Secondary": [
+                    "George North's Rugby Career Highlights"
+                ],
+                "Title": [
+                    "Retirement of Wales Rugby Star George North"
+                ]
+            },
+            {
+                "Primary": "Australia Sweeps New Zealand in Test Series",
+                "Secondary": [],
+                "Title": [
+                    "Australia's Sweep of New Zealand in Test Series"
+                ]
+            },
+            {
+                "Primary": "South Carolina Coach Lamont Paris Receives Contract Extension",
+                "Secondary": [
+                    "Florida Basketball Coach Todd Golden Agrees to Contract Extension"
+                ],
+                "Title": [
+                    "Contract Extensions for Lamont Paris and Todd Golden"
+                ]
+            },
+            {
+                "Primary": "Edmonton Oilers Dominate Washington Capitals",
+                "Secondary": [],
+                "Title": [
+                    "Edmonton Oilers' Dominant Performance against Washington Capitals"
+                ]
+            },
+            {
+                "Primary": "Baltimore Ravens Sign Derrick Henry",
+                "Secondary": [],
+                "Title": [
+                    "Baltimore Ravens' Signing of Derrick Henry"
+                ]
+            },
+            {
+                "Primary": "Germany Coach Julian Nagelsmann Shakes Up Squad for Euro Warmups",
+                "Secondary": [
+                    "France Recalls Diaby for Euro Warmups"
+                ],
+                "Title": [
+                    "Germany and France's Squad Shakeup for Euro Warmups"
+                ]
+            },
+            {
+                "Primary": "Tony Stewart's NHRA Top Fuel Debut",
+                "Secondary": [],
+                "Title": [
+                    "Tony Stewart's Debut in NHRA Top Fuel"
+                ]
+            },
+            {
+                "Primary": "Russell Wilson's NFL Comeback Attempt",
+                "Secondary": [],
+                "Title": [
+                    "Russell Wilson's Comeback Attempt in the NFL"
+                ]
+            },
+            {
+                "Primary": "Scottie Scheffler Dominates Arnold Palmer Invitational",
+                "Secondary": [
+                    "Scottie Scheffler chases history",
+                    "Scottie Scheffler's Chance at History"
+                ],
+                "Title": [
+                    "Scottie Scheffler's Dominance in the Arnold Palmer Invitational"
+                ]
+            },
+            {
+                "Primary": "Rick Pitino Chronicles Big East Tournament",
+                "Secondary": [
+                    "Xavier defeats Butler in Big East Tournament"
+                ],
+                "Title": [
+                    "Rick Pitino's Chronicle of the Big East Tournament"
+                ]
+            },
+            {
+                "Primary": "England's Trust-Centric Rebuilding Strategy",
+                "Secondary": [],
+                "Title": [
+                    "England's Rebuilding Strategy Based on Trust"
+                ]
+            },
+            {
+                "Primary": "Atl\u00e9tico Madrid Triumph in Dramatic Penalty Shootout",
+                "Secondary": [],
+                "Title": [
+                    "Atl\u00e9tico Madrid's Triumph in Dramatic Penalty Shootout"
+                ]
+            },
+            {
+                "Primary": "England's Pressure Cooker Victory Over Ireland",
+                "Secondary": [
+                    "Ireland Unchanged for Six Nations Title Shot Against Scotland"
+                ],
+                "Title": [
+                    "England's Pressure Cooker Victory and Ireland's Six Nations Title Shot"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Crypto/Web3",
+        "data": [
+            {
+                "Primary": "Bitcoin Fog Founder Convicted of Money Laundering",
+                "Secondary": [
+                    "Bitcoin Fog Founder Convicted of Money Laundering"
+                ],
+                "Title": [
+                    "Bitcoin Fog Founder Convicted of Money Laundering"
+                ]
+            },
+            {
+                "Primary": "Nvidia Unveils Blackwell B100 AI Chips",
+                "Secondary": [
+                    "Nvidia Unveils Blackwell B100 AI Chips"
+                ],
+                "Title": [
+                    "Nvidia Unveils Blackwell B100 AI Chips"
+                ]
+            },
+            {
+                "Primary": "Solana's Price Surge Amid Bullish Crypto Market Sentiments",
+                "Secondary": [
+                    "Solana's Price Surge Amid Bullish Crypto Market Sentiments"
+                ],
+                "Title": [
+                    "Solana's Price Surge Amid Bullish Crypto Market Sentiments"
+                ]
+            },
+            {
+                "Primary": "Strong Inflows in U.S. Bitcoin ETF Market",
+                "Secondary": [
+                    "Strong Inflows in U.S. Bitcoin ETF Market"
+                ],
+                "Title": [
+                    "Strong Inflows in U.S. Bitcoin ETF Market"
+                ]
+            },
+            {
+                "Primary": "Bitcoin Climbs Above $73,000 Amid Record ETF Inflows",
+                "Secondary": [
+                    "Bitcoin Climbs Above $73,000 Amid Record ETF Inflows"
+                ],
+                "Title": [
+                    "Bitcoin Climbs Above $73,000 Amid Record ETF Inflows"
+                ]
+            },
+            {
+                "Primary": "North Korean Hackers Launder $12 Million in Ether Through Tornado Cash",
+                "Secondary": [
+                    "North Korean Hackers Launder $12 Million in Ether Through Tornado Cash"
+                ],
+                "Title": [
+                    "North Korean Hackers Launder $12 Million in Ether Through Tornado Cash"
+                ]
+            },
+            {
+                "Primary": "Crypto Investment Products Reach $100 Billion AUM Milestone",
+                "Secondary": [
+                    "Crypto Investment Products Reach $100 Billion AUM Milestone"
+                ],
+                "Title": [
+                    "Crypto Investment Products Reach $100 Billion AUM Milestone"
+                ]
+            },
+            {
+                "Primary": "BlackRock's IBIT Surpasses GBTC in Inflows",
+                "Secondary": [
+                    "BlackRock's IBIT Surpasses GBTC in Inflows"
+                ],
+                "Title": [
+                    "BlackRock's IBIT Surpasses GBTC in Inflows"
+                ]
+            },
+            {
+                "Primary": "Record Inflows for Spot Bitcoin ETFs",
+                "Secondary": [
+                    "Record Inflows for Spot Bitcoin ETFs"
+                ],
+                "Title": [
+                    "Record Inflows for Spot Bitcoin ETFs"
+                ]
+            },
+            {
+                "Primary": "Bitcoin Surges to New Highs",
+                "Secondary": [
+                    "Bitcoin Surges to New Highs"
+                ],
+                "Title": [
+                    "Bitcoin Surges to New Highs"
+                ]
+            },
+            {
+                "Primary": "Judge Rules Against Craig Wright",
+                "Secondary": [
+                    "Judge Rules Against Craig Wright"
+                ],
+                "Title": [
+                    "Judge Rules Against Craig Wright"
+                ]
+            },
+            {
+                "Primary": "io.net Revolutionizes ML Infrastructure with Apple Silicon Chip Clustering",
+                "Secondary": [
+                    "io.net Revolutionizes ML Infrastructure with Apple Silicon Chip Clustering"
+                ],
+                "Title": [
+                    "io.net Revolutionizes ML Infrastructure with Apple Silicon Chip Clustering"
+                ]
+            },
+            {
+                "Primary": "Ethereum Dencun Upgrade Lowers Gas Fees",
+                "Secondary": [
+                    "Ethereum Dencun Upgrade Lowers Gas Fees"
+                ],
+                "Title": [
+                    "Ethereum Dencun Upgrade Lowers Gas Fees"
+                ]
+            },
+            {
+                "Primary": "U.K. Police Seize $1.78 Billion in Bitcoin from Chinese Investment Fraud Operation",
+                "Secondary": [
+                    "U.K. Police Seize $1.78 Billion in Bitcoin from Chinese Investment Fraud Operation"
+                ],
+                "Title": [
+                    "U.K. Police Seize $1.78 Billion in Bitcoin from Chinese Investment Fraud Operation"
+                ]
+            },
+            {
+                "Primary": "Bitcoin Hits New All-Time High Near $74,000",
+                "Secondary": [
+                    "Bitcoin Hits New All-Time High Near $74,000"
+                ],
+                "Title": [
+                    "Bitcoin Hits New All-Time High Near $74,000"
+                ]
+            },
+            {
+                "Primary": "Avalanche (AVAX) Surges Amid Increased Market Activity and Governance Enhancements",
+                "Secondary": [
+                    "Avalanche (AVAX) Surges Amid Increased Market Activity and Governance Enhancements"
+                ],
+                "Title": [
+                    "Avalanche (AVAX) Surges Amid Increased Market Activity and Governance Enhancements"
+                ]
+            },
+            {
+                "Primary": "UK High Court Rules Craig Wright Not Satoshi",
+                "Secondary": [
+                    "UK High Court Rules Craig Wright Not Satoshi"
+                ],
+                "Title": [
+                    "UK High Court Rules Craig Wright Not Satoshi"
+                ]
+            },
+            {
+                "Primary": "Ethereum Layer-2 Transaction Fees Reduced with Dencun Upgrade",
+                "Secondary": [
+                    "Ethereum Layer-2 Transaction Fees Reduced with Dencun Upgrade"
+                ],
+                "Title": [
+                    "Ethereum Layer-2 Transaction Fees Reduced with Dencun Upgrade"
+                ]
+            },
+            {
+                "Primary": "Tether Collaborates with US Authorities to Seize $1.4M USDT in Tech Support Scam",
+                "Secondary": [
+                    "Tether Collaborates with US Authorities to Seize $1.4M USDT in Tech Support Scam"
+                ],
+                "Title": [
+                    "Tether Collaborates with US Authorities to Seize $1.4M USDT in Tech Support Scam"
+                ]
+            },
+            {
+                "Primary": "Crypto Investor Loses $2 Million in Phishing Attack",
+                "Secondary": [
+                    "Crypto Investor Loses $2 Million in Phishing Attack"
+                ],
+                "Title": [
+                    "Crypto Investor Loses $2 Million in Phishing Attack"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Entertainment",
+        "data": [
+            {
+                "Primary": "Record High U.S. Arms Sales",
+                "Secondary": [
+                    "Record High U.S. Arms Sales"
+                ],
+                "Title": [
+                    "Record High U.S. Arms Sales"
+                ]
+            },
+            {
+                "Primary": "Palestinians Break Fast Amid Ongoing Israeli Attacks",
+                "Secondary": [
+                    "Palestinians Break Fast Amid Ongoing Israeli Attacks"
+                ],
+                "Title": [
+                    "Palestinians Break Fast Amid Ongoing Israeli Attacks"
+                ]
+            },
+            {
+                "Primary": "NY Attorney General Letitia James Victorious in High-Profile Cases",
+                "Secondary": [
+                    "NY Attorney General Letitia James Victorious in High-Profile Cases"
+                ],
+                "Title": [
+                    "NY Attorney General Letitia James Victorious in High-Profile Cases"
+                ]
+            },
+            {
+                "Primary": "Kim Jong Un Observes Tank Drills",
+                "Secondary": [
+                    "Kim Jong Un Observes Tank Drills"
+                ],
+                "Title": [
+                    "Kim Jong Un Observes Tank Drills"
+                ]
+            },
+            {
+                "Primary": "President Biden Opposes Japanese Purchase of U.S. Steel",
+                "Secondary": [
+                    "President Biden Opposes Japanese Purchase of U.S. Steel"
+                ],
+                "Title": [
+                    "President Biden Opposes Japanese Purchase of U.S. Steel"
+                ]
+            },
+            {
+                "Primary": "EU Legislators Approve Groundbreaking Artificial Intelligence Law",
+                "Secondary": [
+                    "EU Legislators Approve Groundbreaking Artificial Intelligence Law"
+                ],
+                "Title": [
+                    "EU Legislators Approve Groundbreaking Artificial Intelligence Law"
+                ]
+            },
+            {
+                "Primary": "US-Iran Backchannel Talks on Nuclear Program and Houthi Attacks",
+                "Secondary": [
+                    "US-Iran Backchannel Talks on Nuclear Program and Houthi Attacks"
+                ],
+                "Title": [
+                    "US-Iran Backchannel Talks on Nuclear Program and Houthi Attacks"
+                ]
+            },
+            {
+                "Primary": "Israeli Parliament Approves Increased Budget for War Against Hamas",
+                "Secondary": [
+                    "Israeli Parliament Approves Increased Budget for War Against Hamas"
+                ],
+                "Title": [
+                    "Israeli Parliament Approves Increased Budget for War Against Hamas"
+                ]
+            },
+            {
+                "Primary": "Airstrikes target Hodeidah airport in Yemen",
+                "Secondary": [
+                    "Airstrikes target Hodeidah airport in Yemen"
+                ],
+                "Title": [
+                    "Airstrikes target Hodeidah airport in Yemen"
+                ]
+            },
+            {
+                "Primary": "White House Announces $300 Billion Security Assistance for Ukraine",
+                "Secondary": [
+                    "White House Announces $300 Billion Security Assistance for Ukraine"
+                ],
+                "Title": [
+                    "White House Announces $300 Billion Security Assistance for Ukraine"
+                ]
+            },
+            {
+                "Primary": "Missouri Teen Fighting for Life",
+                "Secondary": [
+                    "Missouri Teen Fighting for Life"
+                ],
+                "Title": [
+                    "Missouri Teen Fighting for Life"
+                ]
+            },
+            {
+                "Primary": "House Republicans Launch Probe into Chinese Influence",
+                "Secondary": [
+                    "House Republicans Launch Probe into Chinese Influence"
+                ],
+                "Title": [
+                    "House Republicans Launch Probe into Chinese Influence"
+                ]
+            },
+            {
+                "Primary": "North Korea Unveils New Tank",
+                "Secondary": [
+                    "North Korea Unveils New Tank"
+                ],
+                "Title": [
+                    "North Korea Unveils New Tank"
+                ]
+            },
+            {
+                "Primary": "South Korean Defense Minister Calls for Special Ops to Eliminate North Korean Leadership",
+                "Secondary": [
+                    "South Korean Defense Minister Calls for Special Ops to Eliminate North Korean Leadership"
+                ],
+                "Title": [
+                    "South Korean Defense Minister Calls for Special Ops to Eliminate North Korean Leadership"
+                ]
+            },
+            {
+                "Primary": "Record-breaking Oscars Coverage by Variety",
+                "Secondary": [
+                    "Record-breaking Oscars Coverage by Variety"
+                ],
+                "Title": [
+                    "Record-breaking Oscars Coverage by Variety"
+                ]
+            },
+            {
+                "Primary": "European Parliament Approves Landmark AI Regulation",
+                "Secondary": [
+                    "European Parliament Approves Landmark AI Regulation"
+                ],
+                "Title": [
+                    "European Parliament Approves Landmark AI Regulation"
+                ]
+            },
+            {
+                "Primary": "China Vows to Protect TikTok",
+                "Secondary": [
+                    "China Vows to Protect TikTok"
+                ],
+                "Title": [
+                    "China Vows to Protect TikTok"
+                ]
+            },
+            {
+                "Primary": "Patients Fear Medical Void Amid Doctor Protests",
+                "Secondary": [
+                    "Patients Fear Medical Void Amid Doctor Protests"
+                ],
+                "Title": [
+                    "Patients Fear Medical Void Amid Doctor Protests"
+                ]
+            },
+            {
+                "Primary": "Vice President Kamala Harris Visits Minnesota Reproductive Health Clinic",
+                "Secondary": [
+                    "Vice President Kamala Harris Visits Minnesota Reproductive Health Clinic"
+                ],
+                "Title": [
+                    "Vice President Kamala Harris Visits Minnesota Reproductive Health Clinic"
+                ]
+            },
+            {
+                "Primary": "IPEF Excludes China from Global Supply Chains",
+                "Secondary": [
+                    "IPEF Excludes China from Global Supply Chains"
+                ],
+                "Title": [
+                    "IPEF Excludes China from Global Supply Chains"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Politics",
+        "data": [
+            {
+                "Primary": "Ukraine Running Out of Ammunition",
+                "Secondary": [
+                    "Ukraine Running Out of Ammunition"
+                ],
+                "Title": [
+                    "Ukraine's Ammunition Shortage"
+                ]
+            },
+            {
+                "Primary": "Oppression of Uyghur Muslims in East Turkistan",
+                "Secondary": [
+                    "Oppression of Uyghur Muslims in East Turkistan"
+                ],
+                "Title": [
+                    "Uyghur Muslims Face Oppression in East Turkistan"
+                ]
+            },
+            {
+                "Primary": "Israeli Forces Kill Palestinians at Aid Distribution in Gaza",
+                "Secondary": [
+                    "Israeli Forces Kill Palestinians at Aid Distribution in Gaza"
+                ],
+                "Title": [
+                    "Israeli Forces' Deadly Attack at Gaza Aid Distribution"
+                ]
+            },
+            {
+                "Primary": "Mass Abductions in Nigeria",
+                "Secondary": [
+                    "Mass Abductions in Nigeria"
+                ],
+                "Title": [
+                    "Nigeria Gripped by Mass Abductions"
+                ]
+            },
+            {
+                "Primary": "Teen Held Hostage and Raped",
+                "Secondary": [
+                    "Teen Held Hostage and Raped"
+                ],
+                "Title": [
+                    "Teen's Horrific Ordeal: Held Hostage and Raped"
+                ]
+            },
+            {
+                "Primary": "Plight of Women in Gaza",
+                "Secondary": [
+                    "Plight of Women in Gaza"
+                ],
+                "Title": [
+                    "Women in Gaza Face Dire Conditions"
+                ]
+            },
+            {
+                "Primary": "Analysis of Jimmy Ch\u00e9rizier, the Haitian Gang Leader",
+                "Secondary": [
+                    "Analysis of Jimmy Ch\u00e9rizier, the Haitian Gang Leader"
+                ],
+                "Title": [
+                    "Examining Jimmy Ch\u00e9rizier, the Haitian Gang Leader"
+                ]
+            },
+            {
+                "Primary": "Russia\u2019s Presidential Election Analysis",
+                "Secondary": [
+                    "Russia\u2019s Presidential Election Analysis"
+                ],
+                "Title": [
+                    "Analyzing Russia's Presidential Election"
+                ]
+            },
+            {
+                "Primary": "Trump Faces 88 Felony Charges",
+                "Secondary": [
+                    "Trump Faces 88 Felony Charges"
+                ],
+                "Title": [
+                    "Trump's Legal Troubles: 88 Felony Charges"
+                ]
+            },
+            {
+                "Primary": "Republican Megadonor Threatens to Cut Off Funding Over TikTok Bill",
+                "Secondary": [
+                    "Republican Megadonor Threatens to Cut Off Funding Over TikTok Bill"
+                ],
+                "Title": [
+                    "Republican Megadonor's Ultimatum Over TikTok Bill"
+                ]
+            },
+            {
+                "Primary": "Dubai's Parkin IPO Breaks Records",
+                "Secondary": [
+                    "Dubai's Parkin IPO Breaks Records"
+                ],
+                "Title": [
+                    "Record-Breaking Parkin IPO in Dubai"
+                ]
+            },
+            {
+                "Primary": "Biden and Trump Clash in 2024 Rematch",
+                "Secondary": [
+                    "Biden and Trump Clash in 2024 Rematch"
+                ],
+                "Title": [
+                    "Biden and Trump Set for 2024 Rematch"
+                ]
+            },
+            {
+                "Primary": "Israeli Military Plans to Evacuate Palestinians in Rafah",
+                "Secondary": [
+                    "Israeli Military Plans to Evacuate Palestinians in Rafah"
+                ],
+                "Title": [
+                    "Israeli Military's Plan to Evacuate Palestinians in Rafah"
+                ]
+            },
+            {
+                "Primary": "Biden to Intervene in Nippon Steel's Purchase of US Steel",
+                "Secondary": [
+                    "Biden to Intervene in Nippon Steel's Purchase of US Steel"
+                ],
+                "Title": [
+                    "Biden's Intervention in Nippon Steel's US Steel Purchase"
+                ]
+            },
+            {
+                "Primary": "President Biden Announces $3.3 Billion Infrastructure Grants",
+                "Secondary": [
+                    "President Biden Announces $3.3 Billion Infrastructure Grants"
+                ],
+                "Title": [
+                    "Biden's $3.3 Billion Infrastructure Grant Announcement"
+                ]
+            },
+            {
+                "Primary": "Online Scam Centre Raid in Philippines",
+                "Secondary": [
+                    "Online Scam Centre Raid in Philippines"
+                ],
+                "Title": [
+                    "Philippines' Online Scam Centre Raided"
+                ]
+            },
+            {
+                "Primary": "Biden's Strained Relationship with Israel",
+                "Secondary": [
+                    "Biden's Strained Relationship with Israel"
+                ],
+                "Title": [
+                    "Biden's Challenging Relationship with Israel"
+                ]
+            },
+            {
+                "Primary": "President Biden Lied About Testimony",
+                "Secondary": [
+                    "President Biden Lied About Testimony"
+                ],
+                "Title": [
+                    "Biden Accused of Lying About Testimony"
+                ]
+            },
+            {
+                "Primary": "Georgia Governor Signs Law Allowing Discipline of Prosecutors",
+                "Secondary": [
+                    "Georgia Governor Signs Law Allowing Discipline of Prosecutors"
+                ],
+                "Title": [
+                    "Georgia Governor Approves Law on Prosecutors' Discipline"
+                ]
+            },
+            {
+                "Primary": "Biden's Strong Stance Against Putin",
+                "Secondary": [
+                    "Biden's Strong Stance Against Putin"
+                ],
+                "Title": [
+                    "Biden Takes Firm Stand Against Putin"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Lifestyle and Health",
+        "data": [
+            {
+                "Primary": "New Guidelines for Migraine Relief",
+                "Secondary": [
+                    "New Guidelines for Migraine Relief"
+                ],
+                "Title": [
+                    "Migraine Relief Guidelines"
+                ]
+            },
+            {
+                "Primary": "Promising CAR-T Therapy Shows Potential for Treating Glioblastoma Brain Tumors",
+                "Secondary": [
+                    "Promising CAR-T Therapy Shows Potential for Treating Glioblastoma Brain Tumors",
+                    "Promising Trials for Glioblastoma Treatment"
+                ],
+                "Title": [
+                    "CAR-T Therapy for Glioblastoma"
+                ]
+            },
+            {
+                "Primary": "Cyberattack on Healthcare System Threatens Small Mental Health Practices",
+                "Secondary": [
+                    "Cyberattack on Healthcare System Threatens Small Mental Health Practices"
+                ],
+                "Title": [
+                    "Cyberattack on Mental Health Practices"
+                ]
+            },
+            {
+                "Primary": "CDC Experts Arrive in Chicago to Manage Measles Outbreak",
+                "Secondary": [
+                    "CDC Experts Arrive in Chicago to Manage Measles Outbreak",
+                    "Measles Outbreak in Chicago Migrant Shelter"
+                ],
+                "Title": [
+                    "CDC Managing Measles Outbreak in Chicago"
+                ]
+            },
+            {
+                "Primary": "Plastic Chemicals Database Reveals Thousands of Hazards",
+                "Secondary": [
+                    "Plastic Chemicals Database Reveals Thousands of Hazards"
+                ],
+                "Title": [
+                    "Hazards Revealed in Plastic Chemicals Database"
+                ]
+            },
+            {
+                "Primary": "Rising Costs and Restrictions Impact Abortion Access in the US",
+                "Secondary": [
+                    "Rising Costs and Restrictions Impact Abortion Access in the US"
+                ],
+                "Title": [
+                    "Impact of Rising Costs on Abortion Access"
+                ]
+            },
+            {
+                "Primary": "The Opioid Epidemic's Impact on Women",
+                "Secondary": [
+                    "The Opioid Epidemic's Impact on Women",
+                    "Jesse C.: A Mother's Journey Through Opioid Use Disorder and Recovery"
+                ],
+                "Title": [
+                    "Opioid Epidemic's Impact on Women"
+                ]
+            },
+            {
+                "Primary": "Rare Discount on DeWalt Mechanics Tools Kit",
+                "Secondary": [
+                    "Rare Discount on DeWalt Mechanics Tools Kit"
+                ],
+                "Title": [
+                    "Discount on DeWalt Mechanics Tools Kit"
+                ]
+            },
+            {
+                "Primary": "Olivia Munn Discovers Breast Cancer Through Online Calculator",
+                "Secondary": [
+                    "Olivia Munn Discovers Breast Cancer Through Online Calculator",
+                    "Actress Olivia Munn Diagnosed with Breast Cancer"
+                ],
+                "Title": [
+                    "Olivia Munn's Breast Cancer Discovery"
+                ]
+            },
+            {
+                "Primary": "Maternal Mortality Rates in the US May Be Lower Than Previously Thought",
+                "Secondary": [
+                    "Maternal Mortality Rates in the US May Be Lower Than Previously Thought"
+                ],
+                "Title": [
+                    "US Maternal Mortality Rates Lower Than Thought"
+                ]
+            },
+            {
+                "Primary": "High School Seniors' Use of Delta-8 THC Raises Concerns",
+                "Secondary": [
+                    "High School Seniors' Use of Delta-8 THC Raises Concerns"
+                ],
+                "Title": [
+                    "Concerns Over High School Seniors' Delta-8 THC Use"
+                ]
+            },
+            {
+                "Primary": "Harmful Effects of Diet Culture on Health and Well-being",
+                "Secondary": [
+                    "Harmful Effects of Diet Culture on Health and Well-being"
+                ],
+                "Title": [
+                    "Diet Culture's Harmful Effects on Health"
+                ]
+            },
+            {
+                "Primary": "Measles Cases on the Rise in the US",
+                "Secondary": [
+                    "Measles Cases on the Rise in the US"
+                ],
+                "Title": [
+                    "Rise in Measles Cases in the US"
+                ]
+            },
+            {
+                "Primary": "Lack of Insurance Coverage for Postpartum Depression Treatment",
+                "Secondary": [
+                    "Lack of Insurance Coverage for Postpartum Depression Treatment"
+                ],
+                "Title": [
+                    "Insurance Gap for Postpartum Depression Treatment"
+                ]
+            },
+            {
+                "Primary": "Measles Outbreak in Chicago Migrant Shelter",
+                "Secondary": [
+                    "Measles Outbreak in Chicago Migrant Shelter"
+                ],
+                "Title": [
+                    "Measles Outbreak in Chicago Migrant Shelter"
+                ]
+            },
+            {
+                "Primary": "Sarah Jones Simmer Steps Down as CEO of Weight-Loss Startup Found",
+                "Secondary": [
+                    "Sarah Jones Simmer Steps Down as CEO of Weight-Loss Startup Found"
+                ],
+                "Title": [
+                    "CEO Change at Weight-Loss Startup Found"
+                ]
+            },
+            {
+                "Primary": "Insurance Coverage Denied for Ventilators Needed by Patients with Lou Gehrig's Disease",
+                "Secondary": [
+                    "Insurance Coverage Denied for Ventilators Needed by Patients with Lou Gehrig's Disease"
+                ],
+                "Title": [
+                    "Insurance Denial for Ventilators in Lou Gehrig's Disease"
+                ]
+            },
+            {
+                "Primary": "Alabama IVF Clinics Pause Services, Leaving Women's Dreams in Limbo",
+                "Secondary": [
+                    "Alabama IVF Clinics Pause Services, Leaving Women's Dreams in Limbo"
+                ],
+                "Title": [
+                    "IVF Clinics in Alabama Pause Services"
+                ]
+            },
+            {
+                "Primary": "Isometric Exercises for Lowering Blood Pressure",
+                "Secondary": [
+                    "Isometric Exercises for Lowering Blood Pressure"
+                ],
+                "Title": [
+                    "Isometric Exercises for Blood Pressure"
+                ]
+            },
+            {
+                "Primary": "Former US Surgeon General Faces Massive Medical Bill",
+                "Secondary": [
+                    "Former US Surgeon General Faces Massive Medical Bill"
+                ],
+                "Title": [
+                    "Surgeon General Faces Massive Medical Bill"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Business and Finance",
+        "data": [
+            {
+                "Primary": "Israeli Forces Open Fire on Palestinians in Gaza",
+                "Secondary": [
+                    "NGOs Criticize Aid Deliveries to Gaza"
+                ],
+                "Title": [
+                    "Israeli-Palestinian Conflict"
+                ]
+            },
+            {
+                "Primary": "President Biden Opposes US Steel Sale to Japan's Nippon Steel",
+                "Secondary": [
+                    "US Steel Corp. Shares Drop on Biden's Concerns Over Nippon Steel Acquisition"
+                ],
+                "Title": [
+                    "US Steel Sale Controversy"
+                ]
+            },
+            {
+                "Primary": "European Parliament Approves AI Act",
+                "Secondary": [
+                    "SAP's Chief Technology Officer Discusses the Future of Generative AI"
+                ],
+                "Title": [
+                    "Regulation of AI in Europe"
+                ]
+            },
+            {
+                "Primary": "EU Adopts Media Freedom Act",
+                "Secondary": [
+                    "EU Commissioner emphasizes need for collaboration on migration management"
+                ],
+                "Title": [
+                    "EU Media and Migration Policies"
+                ]
+            },
+            {
+                "Primary": "Crude Oil Futures Surge on Ukrainian Attacks",
+                "Secondary": [
+                    "Oil prices rise after drone attacks on Russian refineries"
+                ],
+                "Title": [
+                    "Oil Market Volatility"
+                ]
+            },
+            {
+                "Primary": "SpaceX Starship Test Flight Reaches Space",
+                "Secondary": [
+                    "NASA's Artemis Program Advances with Successful SpaceX Test Flight"
+                ],
+                "Title": [
+                    "Space Exploration Milestone"
+                ]
+            },
+            {
+                "Primary": "Japan Court Rules Lack of Same-Sex Marriage Rights Unconstitutional",
+                "Secondary": [
+                    "Belgian government proposes to triple turnover threshold for supply chain law"
+                ],
+                "Title": [
+                    "Same-Sex Marriage Rights"
+                ]
+            },
+            {
+                "Primary": "Biden unveils $7.3 trillion budget",
+                "Secondary": [
+                    "Ohio-based Asset Management Company Introduces New 401(k) Plan Focused on Maximizing Shareholder Profits"
+                ],
+                "Title": [
+                    "Biden's Budget Proposal"
+                ]
+            },
+            {
+                "Primary": "Tragic Confession in Victoria Murder Case",
+                "Secondary": [
+                    "Quebec Lender Halts Mortgages in Flood Zones"
+                ],
+                "Title": [
+                    "Victoria Murder Case Update"
+                ]
+            },
+            {
+                "Primary": "Bernard Arnault: The King of Luxury",
+                "Secondary": [
+                    "Adidas Reports First Annual Loss in Three Decades"
+                ],
+                "Title": [
+                    "Luxury Industry Update"
+                ]
+            },
+            {
+                "Primary": "US House Passes Bill Targeting TikTok Ownership",
+                "Secondary": [
+                    "US House Passes Bill to Force ByteDance to Divest TikTok"
+                ],
+                "Title": [
+                    "TikTok Ownership Legislation"
+                ]
+            },
+            {
+                "Primary": "China's Hidden Government Debt Crisis",
+                "Secondary": [
+                    "China Doubles Merger Filing Thresholds"
+                ],
+                "Title": [
+                    "China's Debt Crisis"
+                ]
+            },
+            {
+                "Primary": "Premier Li Qiang's Blueprint for Chinese Development",
+                "Secondary": [
+                    "Analysis of China's Provincial GDP Growth and Economic Outlook for 2024"
+                ],
+                "Title": [
+                    "Chinese Development Plans"
+                ]
+            },
+            {
+                "Primary": "Bitcoin Hits Record High",
+                "Secondary": [
+                    "Bitcoin Mining Profits Surge"
+                ],
+                "Title": [
+                    "Bitcoin's Price Surge"
+                ]
+            },
+            {
+                "Primary": "TikTok Faces Potential Nationwide Ban in the US",
+                "Secondary": [
+                    "TikTok faces potential ban in the US"
+                ],
+                "Title": [
+                    "TikTok's Future in the US"
+                ]
+            },
+            {
+                "Primary": "China-Australia Bilateral Relations Progress",
+                "Secondary": [
+                    "China Vanke Faces Pressure Amid Property Slump"
+                ],
+                "Title": [
+                    "China-Australia Relations"
+                ]
+            },
+            {
+                "Primary": "EU Parliament Launches Lawsuit Against Commission Over Hungary Funds",
+                "Secondary": [
+                    "EU Faces Potential Block on New Packaging Law"
+                ],
+                "Title": [
+                    "EU Lawsuit Against Hungary"
+                ]
+            },
+            {
+                "Primary": "Treasury Secretary Yellen Discusses Inflation and Economy",
+                "Secondary": [
+                    "Rising Inflation and Housing Costs Impact US Economy"
+                ],
+                "Title": [
+                    "Yellen on Inflation and Economy"
+                ]
+            },
+            {
+                "Primary": "US Approves $2.26B Loan for Nevada Lithium Plant",
+                "Secondary": [
+                    "Nevada Faces Soaring Auto Insurance Rates"
+                ],
+                "Title": [
+                    "US Loan for Nevada Lithium Plant"
+                ]
+            },
+            {
+                "Primary": "European Peace Facility Receives \u20ac5 Billion Boost",
+                "Secondary": [
+                    "Santa Barbara County Urged to Prioritize Affordable Housing Projects"
+                ],
+                "Title": [
+                    "European Peace Facility Funding"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Art and Fashion",
+        "data": [
+            {
+                "Primary": "Tragic Suicide of Trans Teen",
+                "Secondary": [
+                    "Tragic Suicide of Trans Teen",
+                    "Oklahoma High School Student Dies by Suicide after Relentless Bullying"
+                ],
+                "Title": [
+                    "Tragic Suicide of Trans Teen"
+                ]
+            },
+            {
+                "Primary": "Oppenheimer: A Game-Changing Best Picture Winner",
+                "Secondary": [
+                    "Christopher Nolan to Make Over $100 Million from Success of Oppenheimer"
+                ],
+                "Title": [
+                    "Oppenheimer: A Game-Changing Best Picture Winner"
+                ]
+            },
+            {
+                "Primary": "House Votes to Ban TikTok",
+                "Secondary": [
+                    "U.S. House Passes Bill to Ban TikTok"
+                ],
+                "Title": [
+                    "House Votes to Ban TikTok"
+                ]
+            },
+            {
+                "Primary": "Olivia Rodrigo's Reproductive Rights Initiative",
+                "Secondary": [
+                    "Olivia Rodrigo Supports Reproductive Rights",
+                    "Olivia Rodrigo Advocates for Reproductive Rights",
+                    "Olivia Rodrigo Provides Free Contraception on Tour"
+                ],
+                "Title": [
+                    "Olivia Rodrigo's Reproductive Rights Initiative"
+                ]
+            },
+            {
+                "Primary": "Global Diamond Market Impacted by Sanctions on Russian Stones",
+                "Secondary": [],
+                "Title": [
+                    "Global Diamond Market Impacted by Sanctions on Russian Stones"
+                ]
+            },
+            {
+                "Primary": "Supporting Women's Rights Organizations",
+                "Secondary": [],
+                "Title": [
+                    "Supporting Women's Rights Organizations"
+                ]
+            },
+            {
+                "Primary": "Rep. Pramila Jayapal's Immigration Story and Advocacy",
+                "Secondary": [],
+                "Title": [
+                    "Rep. Pramila Jayapal's Immigration Story and Advocacy"
+                ]
+            },
+            {
+                "Primary": "Tragic Suicide of Transgender Teen Nex Benedict",
+                "Secondary": [],
+                "Title": [
+                    "Tragic Suicide of Transgender Teen Nex Benedict"
+                ]
+            },
+            {
+                "Primary": "America Ferrera's Impactful Barbie Monologue",
+                "Secondary": [
+                    "Barbie Cast Shines at Oscars"
+                ],
+                "Title": [
+                    "America Ferrera's Impactful Barbie Monologue"
+                ]
+            },
+            {
+                "Primary": "Annie Nightingale: A Pioneer in Radio Broadcasting",
+                "Secondary": [],
+                "Title": [
+                    "Annie Nightingale: A Pioneer in Radio Broadcasting"
+                ]
+            },
+            {
+                "Primary": "Holocaust Survivors' Foundation Criticizes Director's Oscar Speech",
+                "Secondary": [
+                    "Glazer's Oscar Speech on Holocaust Film and Israel's Occupation",
+                    "Holocaust Director Condemned for Oscars Speech"
+                ],
+                "Title": [
+                    "Holocaust Survivors' Foundation Criticizes Director's Oscar Speech"
+                ]
+            },
+            {
+                "Primary": "Adin Ross inadvertently leads to Andrew Tate's arrest",
+                "Secondary": [],
+                "Title": [
+                    "Adin Ross inadvertently leads to Andrew Tate's arrest"
+                ]
+            },
+            {
+                "Primary": "Remembering Leonard Rickhard",
+                "Secondary": [],
+                "Title": [
+                    "Remembering Leonard Rickhard"
+                ]
+            },
+            {
+                "Primary": "Smithsonian Names Founding Director for American Women\u2019s History Museum",
+                "Secondary": [],
+                "Title": [
+                    "Smithsonian Names Founding Director for American Women\u2019s History Museum"
+                ]
+            },
+            {
+                "Primary": "Gender Refugees: Escaping Anti-Trans Laws",
+                "Secondary": [],
+                "Title": [
+                    "Gender Refugees: Escaping Anti-Trans Laws"
+                ]
+            },
+            {
+                "Primary": "Erasing History: The Impact of Censored Protest Imagery",
+                "Secondary": [],
+                "Title": [
+                    "Erasing History: The Impact of Censored Protest Imagery"
+                ]
+            },
+            {
+                "Primary": "TEFAF Maastricht Showcases High-Quality Artworks",
+                "Secondary": [],
+                "Title": [
+                    "TEFAF Maastricht Showcases High-Quality Artworks"
+                ]
+            },
+            {
+                "Primary": "Spanish Police Bust Fake Banksy Art Forgery Ring",
+                "Secondary": [],
+                "Title": [
+                    "Spanish Police Bust Fake Banksy Art Forgery Ring"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Gaming",
+        "data": [
+            {
+                "Primary": "Embracer Group Sells Saber Interactive",
+                "Secondary": [
+                    "Embracer Group Sells Saber Interactive"
+                ],
+                "Title": [
+                    "Embracer Group Sells Saber Interactive"
+                ]
+            },
+            {
+                "Primary": "The Finals Season 2 Review",
+                "Secondary": [
+                    "The Finals Season 2 Review",
+                    "The Finals Season 2 Update Introduces Hacking-Themed Gadgets and New Map"
+                ],
+                "Title": [
+                    "The Finals Season 2 Review"
+                ]
+            },
+            {
+                "Primary": "Summer Game Fest 2024 Announced",
+                "Secondary": [
+                    "Summer Game Fest 2024 Announced"
+                ],
+                "Title": [
+                    "Summer Game Fest 2024 Announced"
+                ]
+            },
+            {
+                "Primary": "CCP Games to Open Source EVE Online's Carbon Engine",
+                "Secondary": [
+                    "CCP Games to Open Source EVE Online's Carbon Engine"
+                ],
+                "Title": [
+                    "CCP Games to Open Source EVE Online's Carbon Engine"
+                ]
+            },
+            {
+                "Primary": "Silent Hill 2 Remake Trailer Revealed",
+                "Secondary": [
+                    "Silent Hill 2 Remake Trailer Revealed"
+                ],
+                "Title": [
+                    "Silent Hill 2 Remake Trailer Revealed"
+                ]
+            },
+            {
+                "Primary": "Haiti's President Ariel Henry Resigns Amid Political Crisis",
+                "Secondary": [
+                    "Haiti's President Ariel Henry Resigns Amid Political Crisis"
+                ],
+                "Title": [
+                    "Haiti's President Ariel Henry Resigns Amid Political Crisis"
+                ]
+            },
+            {
+                "Primary": "CD Projekt Director Optimistic About Cyberpunk 2077's Future",
+                "Secondary": [
+                    "CD Projekt Director Optimistic About Cyberpunk 2077's Future"
+                ],
+                "Title": [
+                    "CD Projekt Director Optimistic About Cyberpunk 2077's Future"
+                ]
+            },
+            {
+                "Primary": "Texas Seeks Supreme Court to Challenge Federal Authority on Immigration Policy",
+                "Secondary": [
+                    "Texas Seeks Supreme Court to Challenge Federal Authority on Immigration Policy"
+                ],
+                "Title": [
+                    "Texas Seeks Supreme Court to Challenge Federal Authority on Immigration Policy"
+                ]
+            },
+            {
+                "Primary": "New York Governor Deploys National Guard and State Troopers to Subway System",
+                "Secondary": [
+                    "New York Governor Deploys National Guard and State Troopers to Subway System"
+                ],
+                "Title": [
+                    "New York Governor Deploys National Guard and State Troopers to Subway System"
+                ]
+            },
+            {
+                "Primary": "Oppenheimer Film Highlights Nuclear Weapons' Ongoing Threat",
+                "Secondary": [
+                    "Oppenheimer Film Highlights Nuclear Weapons' Ongoing Threat"
+                ],
+                "Title": [
+                    "Oppenheimer Film Highlights Nuclear Weapons' Ongoing Threat"
+                ]
+            },
+            {
+                "Primary": "Enshrouded's 2024 Roadmap Revealed",
+                "Secondary": [
+                    "Enshrouded's 2024 Roadmap Revealed"
+                ],
+                "Title": [
+                    "Enshrouded's 2024 Roadmap Revealed"
+                ]
+            },
+            {
+                "Primary": "Demagog's Highwater: A Darkly Entertaining Journey",
+                "Secondary": [
+                    "Demagog's Highwater: A Darkly Entertaining Journey"
+                ],
+                "Title": [
+                    "Demagog's Highwater: A Darkly Entertaining Journey"
+                ]
+            },
+            {
+                "Primary": "Stardew Valley Bug Fix Confirmed",
+                "Secondary": [
+                    "Stardew Valley Bug Fix Confirmed"
+                ],
+                "Title": [
+                    "Stardew Valley Bug Fix Confirmed"
+                ]
+            },
+            {
+                "Primary": "Dengue: A Growing Global Health Crisis",
+                "Secondary": [
+                    "Dengue: A Growing Global Health Crisis"
+                ],
+                "Title": [
+                    "Dengue: A Growing Global Health Crisis"
+                ]
+            },
+            {
+                "Primary": "Layoffs Shake the Games Industry",
+                "Secondary": [
+                    "Layoffs Shake the Games Industry",
+                    "Video Game Industry Layoffs on the Rise"
+                ],
+                "Title": [
+                    "Layoffs Shake the Games Industry"
+                ]
+            },
+            {
+                "Primary": "Understanding Social Security Benefits in the US",
+                "Secondary": [
+                    "Understanding Social Security Benefits in the US"
+                ],
+                "Title": [
+                    "Understanding Social Security Benefits in the US"
+                ]
+            },
+            {
+                "Primary": "Pioneers of Pagonia Economy Update",
+                "Secondary": [
+                    "Pioneers of Pagonia Economy Update"
+                ],
+                "Title": [
+                    "Pioneers of Pagonia Economy Update"
+                ]
+            },
+            {
+                "Primary": "Where to find the Focus Champions Package",
+                "Secondary": [
+                    "Where to find the Focus Champions Package"
+                ],
+                "Title": [
+                    "Where to find the Focus Champions Package"
+                ]
+            },
+            {
+                "Primary": "Stellaris: The Machine Age Expansion Revealed",
+                "Secondary": [
+                    "Stellaris: The Machine Age Expansion Revealed"
+                ],
+                "Title": [
+                    "Stellaris: The Machine Age Expansion Revealed"
+                ]
+            },
+            {
+                "Primary": "Helldivers 2 Introduces Flying Bugs",
+                "Secondary": [
+                    "Helldivers 2 Introduces Flying Bugs"
+                ],
+                "Title": [
+                    "Helldivers 2 Introduces Flying Bugs"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Law and Crime",
+        "data": [
+            {
+                "Primary": "China Criticizes US Over TikTok Ban Bill",
+                "Secondary": [
+                    "House Passes Measure Targeting TikTok's Parent Company",
+                    "US Lawmakers Approve Bill Potentially Banning TikTok, China Warns of Consequences"
+                ],
+                "Title": [
+                    "China-US TikTok Ban Controversy"
+                ]
+            },
+            {
+                "Primary": "Tragic Murder of Teacher by Student",
+                "Secondary": [
+                    "Teenage girl found dead after going for a walk"
+                ],
+                "Title": [
+                    "Tragic Murder of Teacher and Teenage Girl"
+                ]
+            },
+            {
+                "Primary": "Mother Charged with Murder of Baby Found Dead in Utility Tunnel",
+                "Secondary": [
+                    "Mother Charged with Murder of Baby Girl"
+                ],
+                "Title": [
+                    "Mother Charged with Murder of Baby"
+                ]
+            },
+            {
+                "Primary": "Senators Condemn 9/11 Celebrations",
+                "Secondary": [
+                    "Georgia Judge Strikes Down Counts in Election Interference Case"
+                ],
+                "Title": [
+                    "Senators Condemn 9/11 Celebrations and Georgia Election Interference Case"
+                ]
+            },
+            {
+                "Primary": "Ukrainian Couple's Wedding Plans Disrupted by Russian Invasion",
+                "Secondary": [
+                    "Russia Jams GPS Signal on RAF Aircraft"
+                ],
+                "Title": [
+                    "Ukrainian Couple's Wedding Disrupted by Russian Invasion and GPS Signal Jamming"
+                ]
+            },
+            {
+                "Primary": "New York Attorney General Urges Court to Enforce Trump's Civil Fraud Judgment",
+                "Secondary": [
+                    "Trump Faces Hearing on Criminal Charges"
+                ],
+                "Title": [
+                    "New York AG Urges Court to Enforce Trump's Civil Fraud Judgment and Criminal Charges Hearing"
+                ]
+            },
+            {
+                "Primary": "EU Parliament Approves Groundbreaking AI Regulations",
+                "Secondary": [
+                    "EU Parliament Approves Media Freedom Law",
+                    "EU Parliament Passes AI Regulation Act"
+                ],
+                "Title": [
+                    "EU Parliament Approves Groundbreaking AI Regulations and Media Freedom Law"
+                ]
+            },
+            {
+                "Primary": "Republican Chaos: Trump's Grip Tightens",
+                "Secondary": [
+                    "Trump Faces Hearing on Criminal Charges"
+                ],
+                "Title": [
+                    "Republican Chaos: Trump's Grip Tightens and Criminal Charges Hearing"
+                ]
+            },
+            {
+                "Primary": "European Parliament Passes AI Regulation Act",
+                "Secondary": [
+                    "EU Parliament Approves Media Freedom Law",
+                    "EU Parliament Passes AI Act"
+                ],
+                "Title": [
+                    "European Parliament Passes AI Regulation Act and Media Freedom Law"
+                ]
+            },
+            {
+                "Primary": "Mother and Boyfriend of Missing Toddler Face Preliminary Hearings",
+                "Secondary": [
+                    "Georgia couple arrested for child abuse"
+                ],
+                "Title": [
+                    "Mother and Boyfriend of Missing Toddler Face Preliminary Hearings and Child Abuse Arrest"
+                ]
+            },
+            {
+                "Primary": "Concerns Over Testimony in Jimmy Lai Trial",
+                "Secondary": [
+                    "Trial Lawyers vs. Litigators"
+                ],
+                "Title": [
+                    "Concerns Over Testimony in Jimmy Lai Trial and Lawyers' Roles"
+                ]
+            },
+            {
+                "Primary": "European Parliament Passes AI Act",
+                "Secondary": [
+                    "EU Parliament Approves Media Freedom Law",
+                    "EU Parliament Passes AI Regulation Act"
+                ],
+                "Title": [
+                    "European Parliament Passes AI Act and Media Freedom Law"
+                ]
+            },
+            {
+                "Primary": "New Hampshire Judge Approves Declaration of Harmony Montgomery as Legally Deceased",
+                "Secondary": [
+                    "Georgia Judge Throws Out Six Counts Against Trump"
+                ],
+                "Title": [
+                    "New Hampshire Judge Approves Declaration of Harmony Montgomery as Legally Deceased and Trump's Case Dismissal"
+                ]
+            },
+            {
+                "Primary": "20-year-old charged with killing 8-year-old family member",
+                "Secondary": [
+                    "Teen Arrested After Fight Near Missouri High School Leaves Girl Seriously Injured"
+                ],
+                "Title": [
+                    "20-year-old charged with killing 8-year-old family member and High School Fight Arrest"
+                ]
+            },
+            {
+                "Primary": "Additional Charges Filed Against Suspect in Madeline Soto Case",
+                "Secondary": [
+                    "California Woman Arrested for $8 Million Makeup Theft Ring"
+                ],
+                "Title": [
+                    "Additional Charges Filed Against Suspect in Madeline Soto Case and Makeup Theft Arrest"
+                ]
+            },
+            {
+                "Primary": "IDF Airstrike Targets Hamas No. 3 Marwan Issa",
+                "Secondary": [
+                    "Anti-Kremlin Groups Launch Cross-Border Attacks in Russia's Kursk Region"
+                ],
+                "Title": [
+                    "IDF Airstrike Targets Hamas No. 3 Marwan Issa and Cross-Border Attacks in Russia"
+                ]
+            },
+            {
+                "Primary": "Mother of Harmony Montgomery Seeks Legal Declaration of Death",
+                "Secondary": [
+                    "Georgia Judge Throws Out Six Counts Against Trump"
+                ],
+                "Title": [
+                    "Mother of Harmony Montgomery Seeks Legal Declaration of Death and Trump's Case Dismissal"
+                ]
+            },
+            {
+                "Primary": "Hawaii Family Murder-Suicide Tragedy",
+                "Secondary": [
+                    "Hawaii man fatally stabs wife, children, and himself"
+                ],
+                "Title": [
+                    "Hawaii Family Murder-Suicide Tragedy and Stabbing Incident"
+                ]
+            },
+            {
+                "Primary": "Haiti's National Penitentiary on Fire",
+                "Secondary": [
+                    "Survivor 46 Eliminations Update"
+                ],
+                "Title": [
+                    "Haiti's National Penitentiary on Fire and Survivor 46 Eliminations"
+                ]
+            },
+            {
+                "Primary": "US Citizen Convicted of Murder, Attempted Murder, and Rape at Neuschwanstein Castle",
+                "Secondary": [
+                    "Aristocrat Defends Conditions for Baby's Death"
+                ],
+                "Title": [
+                    "US Citizen Convicted of Murder, Attempted Murder, and Rape at Neuschwanstein Castle and Baby's Death Controversy"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Science and Technology",
+        "data": [
+            {
+                "Primary": "Trump's Authoritarian Ambitions",
+                "Secondary": [
+                    "Trump faces criminal charges"
+                ],
+                "Title": [
+                    "Trump under investigation"
+                ]
+            },
+            {
+                "Primary": "EU Approves Groundbreaking AI Regulations",
+                "Secondary": [
+                    "Creatio Launches AI-Powered Virtual Assistant for CRM"
+                ],
+                "Title": [
+                    "AI regulations and virtual assistant for CRM"
+                ]
+            },
+            {
+                "Primary": "Breakthrough in Nuclear Fusion Energy",
+                "Secondary": [
+                    "Breakthrough in Roll-to-Roll Printed Solar Cells"
+                ],
+                "Title": [
+                    "Advancements in energy technology"
+                ]
+            },
+            {
+                "Primary": "US House to Vote on TikTok Ban Bill",
+                "Secondary": [
+                    "US House Passes Bill Targeting TikTok"
+                ],
+                "Title": [
+                    "Legislation targeting TikTok"
+                ]
+            },
+            {
+                "Primary": "FAA Approves SpaceX Starship Launch License",
+                "Secondary": [
+                    "SpaceX Receives FAA Approval for Third Starship Test Flight"
+                ],
+                "Title": [
+                    "FAA approval for SpaceX Starship"
+                ]
+            },
+            {
+                "Primary": "Stripe Surpasses $1 Trillion in Payment Volume",
+                "Secondary": [],
+                "Title": [
+                    "Stripe's milestone in payment volume"
+                ]
+            },
+            {
+                "Primary": "U.S. to Impose More Curbs on Chinese Competition",
+                "Secondary": [],
+                "Title": [
+                    "US restrictions on Chinese competition"
+                ]
+            },
+            {
+                "Primary": "Measles Outbreak in Chicago",
+                "Secondary": [],
+                "Title": [
+                    "Measles outbreak in Chicago"
+                ]
+            },
+            {
+                "Primary": "YouTube Flooded with Fake Elon Musk Livestreams Promoting Crypto Schemes",
+                "Secondary": [],
+                "Title": [
+                    "Fake Elon Musk livestreams promoting crypto schemes"
+                ]
+            },
+            {
+                "Primary": "Google Enhances Safe Browsing in Chrome",
+                "Secondary": [
+                    "How to Download YouTube Videos"
+                ],
+                "Title": [
+                    "Safe browsing in Chrome and downloading YouTube videos"
+                ]
+            },
+            {
+                "Primary": "SpaceX Receives FAA Approval for Third Starship Test Flight",
+                "Secondary": [],
+                "Title": [
+                    "FAA approval for SpaceX Starship"
+                ]
+            },
+            {
+                "Primary": "Disturbing Online Network Exploiting Children",
+                "Secondary": [
+                    "Transparency Coalition Addressing AI Data Oversight"
+                ],
+                "Title": [
+                    "Online network exploiting children and AI data oversight"
+                ]
+            },
+            {
+                "Primary": "US House Passes Bill Targeting TikTok",
+                "Secondary": [],
+                "Title": [
+                    "Legislation targeting TikTok"
+                ]
+            },
+            {
+                "Primary": "Microsoft Introduces New Pricing Model for Security Chatbot",
+                "Secondary": [],
+                "Title": [
+                    "Microsoft's new pricing model for security chatbot"
+                ]
+            },
+            {
+                "Primary": "\"TODD-Graphene: Innovative Carbon Allotrope for Energy Storage\"",
+                "Secondary": [],
+                "Title": [
+                    "Innovative carbon allotrope for energy storage"
+                ]
+            },
+            {
+                "Primary": "New Understanding of Viral Infections in the Heart",
+                "Secondary": [],
+                "Title": [
+                    "Understanding viral infections in the heart"
+                ]
+            },
+            {
+                "Primary": "Stratolaunch Achieves Milestone with Rocket-Powered Flight",
+                "Secondary": [],
+                "Title": [
+                    "Milestone achievement for Stratolaunch"
+                ]
+            },
+            {
+                "Primary": "Dentate Spikes and Memory Formation",
+                "Secondary": [],
+                "Title": [
+                    "Dentate spikes and memory formation"
+                ]
+            },
+            {
+                "Primary": "US Oil and Gas Emissions: Aerial Surveys Reveal Significant Methane Leakage",
+                "Secondary": [],
+                "Title": [
+                    "Aerial surveys reveal methane leakage in US oil and gas emissions"
+                ]
+            },
+            {
+                "Primary": "Argonne's Nanocryotron Enhances Particle Detectors",
+                "Secondary": [],
+                "Title": [
+                    "Enhancements in particle detectors with Argonne's Nanocryotron"
+                ]
+            }
+        ]
+    }
+]
