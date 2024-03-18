@@ -13,6 +13,7 @@ import pyautogui
 import shutil
 from function import *
 from datetime import datetime
+import sys
 
 # date = datetime.today().date()
 date = '2024-03-14'
@@ -38,6 +39,12 @@ import_source(result_path, result_name)
 
 url = "https://chat.openai.com/g/g-yn2fRQ9y2-ted-trends"
 driver.get(url)
+
+confirm_start = input("Please confirm start(y/n):")
+if confirm_start == 'n': 
+    print("Exit this task")
+    sys.exit(0)
+
 pyautogui.hotkey('alt','tab')
 
 categories = ['Politics', 'Business and Finance', 'Entertainment', 'Science and Technology', 'Sports', 'Crypto/Web3', 'Gaming', 'Law and Crime', 'Lifestyle and Health', 'Art and Fashion', 'glance']
@@ -71,10 +78,17 @@ for category in categories:
     input_box.send_keys(prompt)
 
     send_btn = driver.find_element(By.CSS_SELECTOR, 'button[data-testid="send-button"]')
+    while send_btn.is_enabled() == False:
+        print('runing...')
+        sleep(1)
     driver.execute_script('arguments[0].click();', send_btn)
     sleep(60)
 
-    response = driver.find_element(By.CSS_SELECTOR, f'div[data-testid="conversation-turn-3"]').text
+    while send_btn.is_enabled() == False:
+        print('runing...')
+        sleep(1)
+    response = driver.find_element(
+        By.CSS_SELECTOR, f'div[data-testid="conversation-turn-3"]').find_element(By.TAG_NAME, 'p').text
     responses.append({'Prompt':category, 'Response':response})
     print(responses)
 
@@ -122,9 +136,14 @@ for prompt in new_prompt:
         input_box.send_keys(input_prompt)
 
         send_btn = driver.find_element(By.CSS_SELECTOR, 'button[data-testid="send-button"]')
+        while send_btn.is_enabled() == False:
+            print('runing...')
+            sleep(1)
         driver.execute_script('arguments[0].click();', send_btn)
         sleep(60)
-
+        while send_btn.is_enabled() == False:
+            print('runing...')
+            sleep(1)
         response = driver.find_element(
             By.CSS_SELECTOR, f'div[data-testid="conversation-turn-3"]').find_element(By.TAG_NAME,'p').text
         print(response)
