@@ -81,10 +81,18 @@ for category in categories:
         print('runing...')
         sleep(1)
     driver.execute_script('arguments[0].click();', send_btn)
+    sleep(1)
 
-    while send_btn.is_enabled() == False:
-        print('runing...')
-        sleep(1)
+    while True:
+        try:
+            driver.find_element(
+                By.CSS_SELECTOR, 'button[data-testid="send-button"]')
+            break
+        except:
+            print("running...")
+            sleep(1)
+            continue
+
     response = driver.find_element(
         By.CSS_SELECTOR, f'div[data-testid="conversation-turn-3"]').find_element(By.TAG_NAME, 'p').text
     responses.append({'Prompt':category, 'Response':response})
@@ -137,10 +145,21 @@ for prompt in new_prompt:
             sleep(1)
         driver.execute_script('arguments[0].click();', send_btn)
 
-        while send_btn.is_enabled() == False:
-            print('runing...')
-            sleep(1)
-        response = driver.find_element(
+        sleep(1)
+        while True:
+            try:
+                driver.find_element(
+                    By.CSS_SELECTOR, 'button[data-testid="send-button"]')
+                break
+            except:
+                print("running...")
+                sleep(1)
+                continue
+        try:
+            response = driver.find_element(
+            By.XPATH, '//*[@id="__next"]/div[1]/div[2]/main/div[2]/div[1]/div/div/div/div[3]/div/div/div[2]/div[2]/div[1]/div/div/pre/div/div[2]').find_element(By.TAG_NAME,'code').text
+        except:
+            response = driver.find_element(
             By.CSS_SELECTOR, f'div[data-testid="conversation-turn-3"]').find_element(By.TAG_NAME,'p').text
         print(response)
         dump = json.loads(f"""{response}""")
