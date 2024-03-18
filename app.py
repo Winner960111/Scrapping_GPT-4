@@ -67,7 +67,6 @@ for category in categories:
     pressTab(4)
     selectfile()
 
-    sleep(15)
     if category == 'glance':
         prompt = ["""###Task###\\nLet's think step by step.\\n\\nDescribe what you believe to be the next biggest development or emerging trend in the overall category of the news in general based on the predictions and summaries to the most relevant news topics on a 1-day time frame, 1 week timeframe, and the 1 month timeframe.\\n\\nYour analysis should be based on current trends, ongoing research, industry news, or any other relevant information sources.\\n\\n###Goal###\\nThink of it as what to look out for in the coming days, week, and month. A convergence of what will happen from input files and information in the next 24 hours, 1 week, and 1 month. use information from all of the topics to justify your reasoning.\\n\\n###explanation of input files###\\n\\nIncluded are a few files. The first is a category_day.json file which contains all of the different groupings of topics we have collected for all of the categories of news, the second is a file called extra_research_day.json which attempts to provide deeper research and insights into the topics created from the category_day.json, and lastly is a file called deep_research_day.json which based off of the deeper research file gives some potential ideas into what might happen as a result of the story in the news article occuring.\\n\\nSince we are dealing with the overall category of news. take into account all of the data in the input files\\n\\n###Keep in Mind###\\nWhen formulating your output do not make references in wording back to the original prompt - output should sound and flow naturally\\n\\n###Format###\\n1 day timeframe\\nDeveloping\\nTrend:\\nExplanation:\\nOpportunities that may arise:\\nPotential Pitfalls:\\n\\n1 week timeframe\\nDeveloping\\nTrend:\\nExplanation:\\nOpportunities that may arise:\\nPotential Pitfalls:\\n\\n1 month timeframe\\nDeveloping \\nTrend:\\nExplanation:\\nOpportunities that may arise:\\nPotential Pitfalls:"""]
     else:
@@ -82,7 +81,6 @@ for category in categories:
         print('runing...')
         sleep(1)
     driver.execute_script('arguments[0].click();', send_btn)
-    sleep(60)
 
     while send_btn.is_enabled() == False:
         print('runing...')
@@ -129,8 +127,6 @@ for prompt in new_prompt:
         pressTab(4)
         selectfile()
 
-        sleep(15)
-
         input_box = driver.find_element(By.ID, 'prompt-textarea')
         input_box.clear()
         input_box.send_keys(input_prompt)
@@ -140,7 +136,7 @@ for prompt in new_prompt:
             print('runing...')
             sleep(1)
         driver.execute_script('arguments[0].click();', send_btn)
-        sleep(60)
+
         while send_btn.is_enabled() == False:
             print('runing...')
             sleep(1)
