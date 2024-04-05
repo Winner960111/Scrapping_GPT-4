@@ -17,6 +17,7 @@ import sys
 
 # date = datetime.today().date()
 date = '2024-03-14'
+
 service = Service(executable_path = r"C:\chromedriver-win64\chromedriver.exe")
 options = Options()
 options.add_experimental_option("debuggerAddress", "127.0.0.1:9030")
